@@ -8,9 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@vercel/kv": "^1.0.1",
     "next": "^14.2.5",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "@vercel/kv": "^1.0.1"
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.5.1",
+    "@types/nodegit": "^0.28.11",
+    "@types/react": "^19.3.0",
+    "add": "^2.0.9",
+    "package-lock.json": "^1.0.0",
+    "package.json": "^2.0.1",
+    "typescript": "^7.0.2"
   }
 }
